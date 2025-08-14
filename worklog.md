@@ -58,3 +58,6 @@ code smells identified mentally, refactoring todo list grew; awareness phase.
 ## 2025-08-14T20:03:41
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2025-08-14T18:20:32
+considered a/b testing strategies, user experience constant; theoretical experimentation.
+
