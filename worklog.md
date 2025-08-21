@@ -91,3 +91,6 @@ conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 ## 2025-08-20T20:45:33
 code smells identified mentally, refactoring todo list grew; awareness phase.
 
+## 2025-08-21T21:42:47
+considered code modularity, monolith undisturbed; theoretical decoupling.
+
