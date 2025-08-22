@@ -106,3 +106,6 @@ intellectual heavy lifting day; codebase weight unchanged.
 ## 2025-08-22T23:33:40
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2025-08-22T10:36:55
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
