@@ -133,3 +133,6 @@ explored design patterns, pattern implementation pending; architectural musings.
 ## 2025-08-25T15:03:27
 considered graphql resolvers, rest controllers stable; data graph contemplation.
 
+## 2025-08-25T12:33:02
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
