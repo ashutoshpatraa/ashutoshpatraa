@@ -328,3 +328,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2025-09-16T18:17:13
 rich in consideration, poor in commits; the developer's paradox.
 
+## 2025-09-16T14:11:26
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
