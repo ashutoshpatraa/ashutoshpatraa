@@ -676,3 +676,6 @@ pondered database indexing, query performance theoretical; mental query optimiza
 ## 2025-10-28T15:54:39
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2025-10-29T16:34:14
+debated best practices, practice put on hold; principles before patterns.
+
