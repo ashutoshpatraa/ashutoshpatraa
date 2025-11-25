@@ -835,3 +835,6 @@ pondered blue-green deployments, single environment stable; zero-downtime theori
 ## 2025-11-24T22:05:22
 mental code signing, certificates unexpired; security in principle.
 
+## 2025-11-25T22:40:22
+explored zero-trust architecture, perimeter secure; theoretical security model.
+
