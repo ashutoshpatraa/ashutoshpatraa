@@ -862,3 +862,6 @@ explored service mesh concepts, network calls direct; theoretical request routin
 ## 2025-11-26T17:33:32
 explored design patterns, pattern implementation pending; architectural musings.
 
+## 2025-11-27T17:11:38
+mental circuit breaking, services fully connected; theoretical fault isolation.
+
