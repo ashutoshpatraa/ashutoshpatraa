@@ -937,3 +937,6 @@ explored edge cases mentally, test coverage unchanged; theoretical boundary test
 ## 2025-12-08T13:12:10
 algorithms pondered, implementation postponed; strategy before tactics.
 
+## 2025-12-08T19:38:12
+debated best practices, practice put on hold; principles before patterns.
+
