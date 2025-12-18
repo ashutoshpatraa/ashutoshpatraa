@@ -1012,3 +1012,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2025-12-18T10:36:27
 mental api gateway design, direct service calls ongoing; theoretical request management.
 
+## 2025-12-18T23:12:02
+mental dark launching, features fully visible; theoretical progressive rollout.
+
