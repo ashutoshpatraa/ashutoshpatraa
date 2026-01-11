@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashutosh (Ashu) Patra
+# 👋 Hi, I'm Ashu
 
 Passionate about 3D modeling, front‑end development, and learning advanced Python.
 
@@ -9,7 +9,7 @@ Passionate about 3D modeling, front‑end development, and learning advanced Pyt
 - ⚡ Fun fact: I love anime
 
 ### ✨ Personal Profile
-- Name: Ashutosh (Ashu) Patra
+- Name: Ashu
 - Age: 17
 - Pronouns: he/him
 - Music: Pop 🎧
