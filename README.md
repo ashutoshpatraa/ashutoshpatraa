@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashutosh Patra
+# 👋 Hi, I'm Ashutosh (Ashu) Patra
 
 Passionate about 3D modeling, front‑end development, and learning advanced Python.
 
@@ -7,6 +7,34 @@ Passionate about 3D modeling, front‑end development, and learning advanced Pyt
 - 💬 Ask me about 3D modeling and HTML
 - 📫 Reach me at: ashutoshpatra616@gmail.com
 - ⚡ Fun fact: I love anime
+
+### ✨ Personal Profile
+- Name: Ashutosh (Ashu) Patra
+- Age: 17
+- Pronouns: he/him
+- Music: Pop 🎧
+- Energy: calm, observant, real
+
+### 🌸 Vibes
+- Aesthetics, fashion, sports, and technology
+
+### 📺 Favorite Anime
+- One Piece (always on top 🌊)
+- Tokyo Ghoul
+- Jujutsu Kaisen
+- Demon Slayer
+- A Silent Voice
+- Rom‑com anime
+
+### 🎮 Games I Play
+- Minecraft
+- Roblox
+- Valorant
+
+### 🪴 Hobbies
+- Gardening
+- Cooking
+- Gaming
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashudoesnothinng/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshpatraa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@polerflyer6695)
