@@ -1249,3 +1249,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2026-01-20T18:47:58
 considered graphql resolvers, rest controllers stable; data graph contemplation.
 
+## 2026-01-20T23:49:20
+considered database sharding, monolithic db humming; theoretical data distribution.
+
