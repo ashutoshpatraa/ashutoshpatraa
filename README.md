@@ -21,15 +21,13 @@
 | :--- | :--- |
 | A modern application designed to enhance focus and productivity. | An intelligent platform to organize and optimize your study sessions. |
 | `Web` `UI/UX` | `AI` `Education` |
-| [View Project](https://github.com/ashutoshpatraa) | [View Project](https://github.com/ashutoshpatraa) |
+| [View Project](https://github.com/ashutoshpatraa/FocusPlay) | [View Project](https://github.com/ashutoshpatraa/StudyLogix) |
 
 | **FileNinja** | **Paimon's Codex** |
 | :--- | :--- |
 | A fast and efficient file management utility tool. | A comprehensive codex and resource guide for Genshin Impact. |
 | `Linux` `Tools` | `Gaming` `Wiki` |
-| [View Project](https://github.com/ashutoshpatraa) | [View Project](https://github.com/ashutoshpatraa) |
-
-> **Note:** Update the links above to point to the specific project repositories when they are ready!
+| [View Project](https://github.com/ashutoshpatraa/FileNinja) | [View Project](https://github.com/ashutoshpatraa/PaimonsCodex) |
 
 ---
 
