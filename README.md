@@ -71,8 +71,20 @@ I build clean digital experiences and explore what happens behind the screen. My
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashutoshpatraa&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpatraa&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+<table>
+  <tr>
+    <td align="center" width="49%">
+      <img src="https://img.shields.io/github/repos/ashutoshpatraa?style=for-the-badge&logo=github&label=REPOSITORIES&color=0D1117&labelColor=0D1117&logoColor=58A6FF" alt="Repositories">
+      <br><br>
+      <img src="https://img.shields.io/github/followers/ashutoshpatraa?style=for-the-badge&logo=github&label=FOLLOWERS&color=0D1117&labelColor=0D1117&logoColor=58A6FF" alt="Followers">
+      <br><br>
+      <img src="https://img.shields.io/github/stars/ashutoshpatraa?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=0D1117&labelColor=0D1117&logoColor=58A6FF" alt="Stars">
+    </td>
+    <td align="center" width="49%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpatraa&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top languages">
+    </td>
+  </tr>
+</table>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpatraa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
