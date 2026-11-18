@@ -1,126 +1,90 @@
 <div align="center">
-  
-# Ashutosh Patra
-**Incoming B.Tech CSE • Software Engineer • Open Source Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=A0A0A0&vCenter=true&center=true&width=700&lines=Building+digital+experiences+with+minimal+design.;Developing+FocusPlay%2C+StudyLogix%2C+and+FileNinja.;Exploring+AI%2C+Linux+architecture%2C+and+Web+Dev." alt="Typing SVG" />
+# ` ashutosh@github:~ `
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Ashutosh.;B.Tech+CSE+student.;I+build+things+for+the+web.;Linux+enthusiast.;Always+learning." alt="Typing introduction" />
 
-<a href="https://ashutoshpatra.tech"><img src="https://img.shields.io/badge/Portfolio-ashutoshpatra.tech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://linkedin.com/in/ashutoshpatraa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ashutoshpatra616@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br>
+
+<a href="https://ashutoshpatra.tech"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ashutoshpatraa"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ashutoshpatra616@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say+hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<br/>
+<br>
 
-### 👨‍💻 About Me
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7EE787&vCenter=true&width=260&lines=%3E+whoami" alt="whoami" />
 
-I'm an **18-year-old Incoming B.Tech CSE student** and passionate developer. I love crafting clean, minimal digital experiences and building useful tools. When I'm not writing code, you can find me ricing **Arch Linux**, exploring the latest in **AI**, or catching up on anime (One Piece is peak 🌊). I'm always down to chat about sleek tech aesthetics or anything open-source!
+```text
+╭──────────────────────────────────────────────────────╮
+│  NAME       Ashutosh Patra                           │
+│  ROLE       Software Engineering Student             │
+│  LOCATION   India                                    │
+│  STATUS     Building, learning, and breaking things  │
+╰──────────────────────────────────────────────────────╯
+```
 
-- 🔭 **Currently working on:** Refining my skills in modern web development and Linux internals.
-- 🌱 **Currently learning:** Advanced AI integrations and cloud architectures.
-- 💬 **Ask me about:** React, TailwindCSS, Arch Linux, or NeoVim.
-- 📫 **How to reach me:** [ashutoshpatra616@gmail.com](mailto:ashutoshpatra616@gmail.com)
+I’m an incoming B.Tech CSE student who enjoys turning ideas into clean, useful experiences. My interests sit somewhere between web development, Linux, AI, and system design.
 
----
+- **Currently exploring** — modern web development and cloud fundamentals
+- **Learning** — AI integrations, Linux internals, and better system design
+- **Using daily** — Git, Arch Linux, React, and VS Code
+- **Offline** — anime, custom setups, and over-engineering small tools
 
-### 🏗️ Featured Work
+<br>
 
-| 🎯 **[FocusPlay](https://github.com/ashutoshpatraa/FocusPlay)** | 📚 **[StudyLogix](https://github.com/ashutoshpatraa/StudyLogix)** |
-| :--- | :--- |
-| A modern application designed to enhance focus and productivity. | An intelligent platform to organize and optimize your study sessions. |
-| `Web` `UI/UX` | `AI` `Education` |
+## `> system --skills`
 
-| 🥷 **[FileNinja](https://github.com/ashutoshpatraa/FileNinja)** | 📖 **[Paimon's Codex](https://github.com/ashutoshpatraa/PaimonsCodex)** |
-| :--- | :--- |
-| A fast and efficient file management utility tool for Linux power users. | A comprehensive codex and resource guide for Genshin Impact. |
-| `Linux` `Tools` | `Gaming` `Wiki` |
+### Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-### 💻 Tech Stack & Tools
+### Build
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Languages</b><br><br>
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code><br>Python
-    </td>
-    <td align="center" width="25%">
-      <b>Frontend</b><br><br>
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/></code><br>React
-    </td>
-    <td align="center" width="25%">
-      <b>Backend & Data</b><br><br>
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/></code><br>Node.js
-    </td>
-    <td align="center" width="25%">
-      <b>Tools & OS</b><br><br>
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/></code><br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code><br>JavaScript
-    </td>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS"/></code><br>TailwindCSS
-    </td>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code><br>MongoDB
-    </td>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code><br>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code><br>TypeScript
-    </td>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/></code><br>Figma
-    </td>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/></code><br>TensorFlow
-    </td>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" title="Arch Linux"/></code><br>Arch Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" title="Lua"/></code><br>Lua
-    </td>
-    <td align="center" width="25%">
-      <!-- Placeholder for symmetry if needed, else empty -->
-    </td>
-    <td align="center" width="25%">
-      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/></code><br>Pandas
-    </td>
-    <td align="center" width="25%">
-      <!-- Placeholder for symmetry -->
-    </td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+### Environment
 
-### 📈 GitHub Stats & Activity
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<br>
+
+## `> git --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashutoshpatraa&show_icons=true&hide_border=true&bg_color=00000000&title_color=white&text_color=777777&icon_color=ffffff" alt="Ashutosh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpatraa&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=777777&currStreakLabel=777777&sideLabels=777777&dates=777777" alt="Ashutosh's GitHub Streak" width="48%" />
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashutoshpatraa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshpatraa&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpatraa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+
 </div>
 
-<br/>
+<br>
+
+## `> ping ashutosh`
+
+```bash
+# Open to ideas, collaborations, and interesting conversations
+$ echo "Built with curiosity. Improved with consistency."
+Built with curiosity. Improved with consistency.
+```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpatraa&bg_color=00000000&color=ffffff&line=777777&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
 
-<br/>
-<div align="center">
-  <i>Thanks for dropping by! Feel free to explore my repositories. 🚀</i>
+[![Profile views](https://komarev.com/ghpvc/?username=ashutoshpatraa&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/ashutoshpatraa)
+
+<sub>⌁ leave the machine a little better than you found it ⌁</sub>
+
 </div>
